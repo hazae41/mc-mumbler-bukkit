@@ -1,0 +1,5 @@
+main: hazae41.mumbler.Plugin
+author: hazae41
+version: 1.2
+name: Mumbler
+description: Only players who can physically hear you will see your messages
